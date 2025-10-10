@@ -27,7 +27,7 @@ An intelligent video search engine that lets you search across multiple videos u
 
 ## 📸 Demo
 
-*[Add screenshots here after you take them]*
+**
 
 ## 💡 Use Cases
 
